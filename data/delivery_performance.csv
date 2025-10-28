@@ -1,0 +1,11 @@
+order_id,carrier,promised_delivery_time,actual_delivery_time,delivery_status,customer_rating,delivery_cost
+1001,BlueDart,2024-01-03,2024-01-04,Late,3,120
+1002,DHL,2024-01-05,2024-01-05,On Time,5,150
+1003,Delhivery,2024-01-06,2024-01-08,Late,2,90
+1004,FedEx,2024-01-06,2024-01-07,Late,3,200
+1005,EcomExpress,2024-01-07,2024-01-07,On Time,4,80
+1006,DHL,2024-01-08,2024-01-10,Late,1,95
+1007,BlueDart,2024-01-09,2024-01-09,On Time,5,160
+1008,FedEx,2024-01-10,2024-01-11,Late,2,130
+1009,Delhivery,2024-01-11,2024-01-12,Late,2,140
+1010,EcomExpress,2024-01-12,2024-01-13,Late,3,110
